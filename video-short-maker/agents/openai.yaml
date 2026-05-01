@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Short Maker"
+  short_description: "Turn local videos into short clips"
+  default_prompt: "Use $video-short-maker to create a 45s short from ./demo.mp4."

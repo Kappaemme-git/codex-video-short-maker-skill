@@ -1,0 +1,36 @@
+{
+  "name": "codex-video-short-maker-skill",
+  "version": "0.1.0",
+  "description": "A Codex skill for turning local videos into short clips with optional local captions.",
+  "license": "MIT",
+  "author": "Francesco Mistero",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappaemme-git/codex-video-short-maker-skill.git"
+  },
+  "homepage": "https://github.com/Kappaemme-git/codex-video-short-maker-skill#readme",
+  "bugs": {
+    "url": "https://github.com/Kappaemme-git/codex-video-short-maker-skill/issues"
+  },
+  "bin": {
+    "codex-video-short-maker-skill": "scripts/install.js"
+  },
+  "files": [
+    "video-short-maker",
+    "scripts/install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "codex",
+    "skill",
+    "video",
+    "shorts",
+    "ffmpeg",
+    "whisper",
+    "captions"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
