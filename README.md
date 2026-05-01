@@ -91,6 +91,20 @@ More aggressive cuts:
 Use $video-short-maker to create a 30s vertical short from /Users/me/Desktop/demo.mp4 using aggressive cut style.
 ```
 
+## Output Formats
+
+Vertical 9:16 for Shorts/Reels/TikTok:
+
+```text
+Use $video-short-maker to create a 30s vertical short from /Users/me/Desktop/demo.mp4.
+```
+
+Original aspect ratio:
+
+```text
+Use $video-short-maker to create a 30s short from /Users/me/Desktop/demo.mp4.
+```
+
 ## Output
 
 The skill creates files next to the input video:
